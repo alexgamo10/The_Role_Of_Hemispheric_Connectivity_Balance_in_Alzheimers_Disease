@@ -1,0 +1,1 @@
+This is the processing pipeline on which I based for processing the MRIs for this project: https://github.com/GerardMJuan/FC-SC-data-pipeline
